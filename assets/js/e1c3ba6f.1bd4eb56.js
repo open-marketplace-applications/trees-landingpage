@@ -1,0 +1,1 @@
+(self.webpackChunklandingpage=self.webpackChunklandingpage||[]).push([[352],{779:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/trees-landingpage/blog/tags","slug":"trees","name":"trees","count":1,"permalink":"/trees-landingpage/blog/tags/trees"}')}}]);
