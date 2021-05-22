@@ -1,0 +1,1 @@
+(self.webpackChunklandingpage=self.webpackChunklandingpage||[]).push([[713],{7485:function(e){"use strict";e.exports=JSON.parse('{"trees":{"allTagsPath":"/blog/tags","slug":"trees","name":"trees","count":1,"permalink":"/blog/tags/trees"},"hello":{"allTagsPath":"/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/blog/tags/hello"}}')}}]);
