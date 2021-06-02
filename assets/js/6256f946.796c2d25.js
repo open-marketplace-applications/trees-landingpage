@@ -1,0 +1,1 @@
+(self.webpackChunklandingpage=self.webpackChunklandingpage||[]).push([[908],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Start of the \ud83c\udf33\ud83c\udf32 Tree Initiative","permalink":"/trees-landingpage/blog/start"},{"title":"Welcome","permalink":"/trees-landingpage/blog/welcome"}]}')}}]);

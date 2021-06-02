@@ -4,9 +4,16 @@
         <title>🌳🌲 Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
         <description>🌳🌲 Blog</description>
-        <lastBuildDate>Sat, 22 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Start of the 🌳🌲 Tree Initiative]]></title>
+            <link>https://your-docusaurus-test-site.com/trees-landingpage/blog/start</link>
+            <guid>start</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are live! 🎉]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://your-docusaurus-test-site.com/trees-landingpage/blog/welcome</link>
